@@ -73,40 +73,247 @@
       "id": 8
     },
     {
-      "companyName": "Netflix",
-      "contactTitle": "Frank",
-      "city": "Los Gatos",
-      "country": "United States",
-      "createDate": "2024-07-28T15:51:34.567Z",
-      "liked": true,
-      "id": 9
-    },
-    {
       "companyName": "IBM",
       "contactTitle": "Grace",
       "city": "Armonk",
       "country": "United States",
       "createDate": "2024-07-28T15:53:48.890Z",
       "liked": false,
+      "id": 9
+    },
+    {
+      "companyName": "Netflix",
+      "contactTitle": "Heidi",
+      "city": "Los Gatos",
+      "country": "United States",
+      "createDate": "2024-07-28T15:55:29.123Z",
+      "liked": false,
       "id": 10
     },
     {
-      "companyName": "Intel",
-      "contactTitle": "Hank",
-      "city": "Santa Clara",
-      "country": "United States",
-      "createDate": "2024-07-28T15:56:01.123Z",
-      "liked": true,
+      "companyName": "Spotify",
+      "contactTitle": "Ivy",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "createDate": "2024-07-28T15:57:32.456Z",
+      "liked": false,
       "id": 11
     },
     {
-      "companyName": "Oracle",
-      "contactTitle": "Ivy",
-      "city": "Redwood City",
+      "companyName": "Adobe",
+      "contactTitle": "Jack",
+      "city": "San Jose",
       "country": "United States",
-      "createDate": "2024-07-28T15:58:14.456Z",
+      "createDate": "2024-07-28T15:59:45.789Z",
       "liked": false,
       "id": 12
+    },
+    {
+      "companyName": "Intel",
+      "contactTitle": "Kara",
+      "city": "Santa Clara",
+      "country": "United States",
+      "createDate": "2024-07-28T16:02:11.012Z",
+      "liked": false,
+      "id": 13
+    },
+    {
+      "companyName": "Oracle",
+      "contactTitle": "Liam",
+      "city": "Redwood City",
+      "country": "United States",
+      "createDate": "2024-07-28T16:04:23.345Z",
+      "liked": true,
+      "id": 14
+    },
+    {
+      "companyName": "Salesforce",
+      "contactTitle": "Mia",
+      "city": "San Francisco",
+      "country": "United States",
+      "createDate": "2024-07-28T16:06:37.678Z",
+      "liked": false,
+      "id": 15
+    },
+    {
+      "companyName": "SAP",
+      "contactTitle": "Noah",
+      "city": "Walldorf",
+      "country": "Germany",
+      "createDate": "2024-07-28T16:09:11.901Z",
+      "liked": false,
+      "id": 16
+    },
+    {
+      "companyName": "Sony",
+      "contactTitle": "Olivia",
+      "city": "Tokyo",
+      "country": "Japan",
+      "createDate": "2024-07-28T16:11:49.234Z",
+      "liked": false,
+      "id": 17
+    },
+    {
+      "companyName": "Samsung",
+      "contactTitle": "Peter",
+      "city": "Seoul",
+      "country": "South Korea",
+      "createDate": "2024-07-28T16:14:22.567Z",
+      "liked": false,
+      "id": 18
+    },
+    {
+      "companyName": "LG",
+      "contactTitle": "Quinn",
+      "city": "Seoul",
+      "country": "South Korea",
+      "createDate": "2024-07-28T16:16:55.890Z",
+      "liked": false,
+      "id": 19
+    },
+    {
+      "companyName": "HP",
+      "contactTitle": "Ryan",
+      "city": "Palo Alto",
+      "country": "United States",
+      "createDate": "2024-07-28T16:19:37.123Z",
+      "liked": false,
+      "id": 20
+    },
+    {
+      "companyName": "Dell",
+      "contactTitle": "Sophia",
+      "city": "Round Rock",
+      "country": "United States",
+      "createDate": "2024-07-28T16:21:59.456Z",
+      "liked": false,
+      "id": 21
+    },
+    {
+      "companyName": "Asus",
+      "contactTitle": "Tom",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "createDate": "2024-07-28T16:24:21.789Z",
+      "liked": false,
+      "id": 22
+    },
+    {
+      "companyName": "Acer",
+      "contactTitle": "Uma",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "createDate": "2024-07-28T16:26:44.012Z",
+      "liked": false,
+      "id": 23
+    },
+    {
+      "companyName": "Lenovo",
+      "contactTitle": "Victor",
+      "city": "Beijing",
+      "country": "China",
+      "createDate": "2024-07-28T16:29:11.345Z",
+      "liked": false,
+      "id": 24
+    },
+    {
+      "companyName": "Huawei",
+      "contactTitle": "Wendy",
+      "city": "Shenzhen",
+      "country": "China",
+      "createDate": "2024-07-28T16:31:29.678Z",
+      "liked": false,
+      "id": 25
+    },
+    {
+      "companyName": "Nokia",
+      "contactTitle": "Xander",
+      "city": "Espoo",
+      "country": "Finland",
+      "createDate": "2024-07-28T16:33:41.901Z",
+      "liked": false,
+      "id": 26
+    },
+    {
+      "companyName": "Ericsson",
+      "contactTitle": "Yara",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "createDate": "2024-07-28T16:35:55.234Z",
+      "liked": false,
+      "id": 27
+    },
+    {
+      "companyName": "Cisco",
+      "contactTitle": "Zane",
+      "city": "San Jose",
+      "country": "United States",
+      "createDate": "2024-07-28T16:38:12.567Z",
+      "liked": false,
+      "id": 28
+    },
+    {
+      "companyName": "Qualcomm",
+      "contactTitle": "Anna",
+      "city": "San Diego",
+      "country": "United States",
+      "createDate": "2024-07-28T16:40:29.890Z",
+      "liked": false,
+      "id": 29
+    },
+    {
+      "companyName": "NVIDIA",
+      "contactTitle": "Brian",
+      "city": "Santa Clara",
+      "country": "United States",
+      "createDate": "2024-07-28T16:43:41.123Z",
+      "liked": false,
+      "id": 30
+    },
+    {
+      "companyName": "AMD",
+      "contactTitle": "Cathy",
+      "city": "Santa Clara",
+      "country": "United States",
+      "createDate": "2024-07-28T16:45:59.456Z",
+      "liked": false,
+      "id": 31
+    },
+    {
+      "companyName": "ARM",
+      "contactTitle": "Daniel",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "createDate": "2024-07-28T16:48:21.789Z",
+      "liked": false,
+      "id": 32
+    },
+    {
+      "companyName": "Razer",
+      "contactTitle": "Emily",
+      "city": "San Francisco",
+      "country": "United States",
+      "createDate": "2024-07-28T16:50:44.012Z",
+      "liked": true,
+      "id": 33
+    },
+    {
+      "companyName": "Alienware",
+      "contactTitle": "Frank",
+      "city": "Miami",
+      "country": "United States",
+      "createDate": "2024-07-28T16:53:11.345Z",
+      "liked": true,
+      "id": 34
+    },
+    {
+      "companyName": "Logitech",
+      "contactTitle": "Georgia",
+      "city": "Newark",
+      "country": "United States",
+      "createDate": "2024-07-28T16:55:29.678Z",
+      "liked": true,
+      "id": 35
     }
   ]
 }

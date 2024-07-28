@@ -5,6 +5,7 @@ import CustomerList from "./pages/Customers";
 import Favorites from "./pages/Favorites";
 
 import "./assets/styles/base.scss"
+import Home from './pages/Home';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Router>
         <Header />
         <Routes>
+        <Route path="/" element={<Home />} />
           <Route path="/add-customer" element={<AddCustomer />} />
           <Route path="/customer-list" element={<CustomerList />} />
           <Route path="/favorites" element={<Favorites />} />
