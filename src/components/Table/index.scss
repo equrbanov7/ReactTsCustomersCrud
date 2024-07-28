@@ -1,0 +1,58 @@
+.Table {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+
+    thead {
+      tr {
+        th {
+          padding: 10px;
+          border-bottom: 2px solid #ccc;
+          text-align: left;
+        }
+      }
+    }
+
+    tbody {
+      tr {
+        td {
+          padding: 10px;
+          border-bottom: 1px solid #eee;
+
+          button {
+            padding: 5px 10px;
+            border: 1px solid #ff0000;
+            background: transparent;
+            color: #ff0000;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+
+            &:hover {
+              background-color: #ff0000;
+              color: #fff;
+            }
+
+            &.favorite {
+              border-color: #007bff;
+              color: #007bff;
+
+              &:hover {
+                background-color: #007bff;
+                color: #fff;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .TableEmptyInfo {
+    text-align: center;
+    margin: 10px;
+  }
+}

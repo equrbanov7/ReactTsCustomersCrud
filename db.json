@@ -1,0 +1,112 @@
+{
+  "customers": [
+    {
+      "companyName": "Google",
+      "contactTitle": "Elvoin",
+      "city": "Belo Horizonte",
+      "country": "Brazil",
+      "createDate": "2024-07-28T15:34:09.270Z",
+      "liked": false,
+      "id": 1
+    },
+    {
+      "companyName": "Google",
+      "contactTitle": "Kelbinnn",
+      "city": "Mountain View",
+      "country": "United States",
+      "createDate": "2024-07-28T15:34:15.891Z",
+      "liked": false,
+      "id": 2
+    },
+    {
+      "companyName": "Google",
+      "contactTitle": "Denis",
+      "city": "Ciudad de México",
+      "country": "Mexico",
+      "createDate": "2024-07-28T15:34:26.369Z",
+      "liked": false,
+      "id": 3
+    },
+    {
+      "companyName": "Microsoft",
+      "contactTitle": "Alice",
+      "city": "Redmond",
+      "country": "United States",
+      "createDate": "2024-07-28T15:40:01.123Z",
+      "liked": false,
+      "id": 4
+    },
+    {
+      "companyName": "Apple",
+      "contactTitle": "Bob",
+      "city": "Cupertino",
+      "country": "United States",
+      "createDate": "2024-07-28T15:42:21.456Z",
+      "liked": false,
+      "id": 5
+    },
+    {
+      "companyName": "Amazon",
+      "contactTitle": "Carol",
+      "city": "Seattle",
+      "country": "United States",
+      "createDate": "2024-07-28T15:44:37.789Z",
+      "liked": false,
+      "id": 6
+    },
+    {
+      "companyName": "Facebook",
+      "contactTitle": "Dave",
+      "city": "Menlo Park",
+      "country": "United States",
+      "createDate": "2024-07-28T15:46:52.001Z",
+      "liked": false,
+      "id": 7
+    },
+    {
+      "companyName": "Tesla",
+      "contactTitle": "Eve",
+      "city": "Palo Alto",
+      "country": "United States",
+      "createDate": "2024-07-28T15:49:12.234Z",
+      "liked": false,
+      "id": 8
+    },
+    {
+      "companyName": "Netflix",
+      "contactTitle": "Frank",
+      "city": "Los Gatos",
+      "country": "United States",
+      "createDate": "2024-07-28T15:51:34.567Z",
+      "liked": true,
+      "id": 9
+    },
+    {
+      "companyName": "IBM",
+      "contactTitle": "Grace",
+      "city": "Armonk",
+      "country": "United States",
+      "createDate": "2024-07-28T15:53:48.890Z",
+      "liked": false,
+      "id": 10
+    },
+    {
+      "companyName": "Intel",
+      "contactTitle": "Hank",
+      "city": "Santa Clara",
+      "country": "United States",
+      "createDate": "2024-07-28T15:56:01.123Z",
+      "liked": true,
+      "id": 11
+    },
+    {
+      "companyName": "Oracle",
+      "contactTitle": "Ivy",
+      "city": "Redwood City",
+      "country": "United States",
+      "createDate": "2024-07-28T15:58:14.456Z",
+      "liked": false,
+      "id": 12
+    }
+  ]
+}

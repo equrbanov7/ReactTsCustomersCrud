@@ -1,0 +1,68 @@
+@import "../../assets/styles//mixin.scss";
+
+.Form {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  
+    .form-container {
+      @include makeFlexForColum(15px);
+    }
+  
+    .form-group {
+      @include makeFlexForColum(5px);
+      
+      label {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+        position: relative;
+
+        &::before {
+            content: '*';
+            color: red;
+            position: absolute;
+            left: -8px; 
+          }
+      }
+      
+  
+      input {
+        padding: 10px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        width: 100%;
+        outline: unset;
+
+        // &:active{
+        //     border: 1px solid #0056b3;
+        // }
+      }
+  
+      span {
+        color: #dc3545;
+        font-size: 12px;
+        margin-top: 5px;
+      }
+    }
+  
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      color: #fff;
+      background-color: #007bff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      align-self: flex-start;
+      
+      &:hover {
+        background-color: #0056b3;
+      }
+    }
+  }
+  
